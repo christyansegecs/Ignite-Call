@@ -1,0 +1,19 @@
+
+npm i prisma
+npm i @prisma/client
+npx prisma init --datasource-provider SQLite
+npx prisma migrate dev
+npm i axios
+npm i nookies
+npm i @types/cookies -D
+npm i next-auth
+openssl rand -base64 32 (apenas no MacOS)
+npx prisma migrate dev
+npx prisma studio
+npm i @tanstack/react-query
+npm i googleapis
+npm i next-seo
+npx prisma db push
+
+# Deploy na Vercel
+npm i -g vercel
